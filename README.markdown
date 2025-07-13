@@ -75,7 +75,6 @@ titanic-data-analysis/
 ├── data/
 │   └── train.csv            # Titanic dataset
 ├── Titanic_Data_Analysis.ipynb  # Main notebook
-├── requirements.txt         # Python dependencies
 ├── README.md               # Project documentation
 ├── LICENSE                 # MIT License
 ```
